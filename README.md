@@ -1,2 +1,2 @@
 # Emprestimo_Decision_Tree
-Projeto para classificar o status de um empréstimo, o que levar para o time de negócio e dicas de como melhorar a modelagem!
+Projeto inicial para classificar o status de um empréstimo, o que levar para o time de negócio e dicas de próximos passos de como melhorar a modelagem!
